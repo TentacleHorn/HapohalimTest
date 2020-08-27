@@ -1,6 +1,6 @@
-package com.example.starter.routers.XML;
+package hapohalim.routers.XML;
 
-import com.example.starter.routers.SimpleRouterFactory;
+import hapohalim.routers.SimpleRouterFactory;
 import io.vertx.core.Vertx;
 import io.vertx.core.json.Json;
 import io.vertx.core.json.JsonObject;
